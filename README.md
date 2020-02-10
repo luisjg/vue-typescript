@@ -1,4 +1,4 @@
-# vue-redesign
+# vue-typescript
 
 ## Project setup
 ```
